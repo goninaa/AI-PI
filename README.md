@@ -1,4 +1,6 @@
 # 🚀 AI-PI Web App
+![ai_pi_logo](https://github.com/user-attachments/assets/8a7601f7-2f4c-48c0-b9e6-01743dc2539f)
+
 
 ### A Flutter web application that interacts with OpenAI.
 🚨 This project was created as a lighthearted experiment for prof. Yossi Yovel's bat lab! 🦇😂
